@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\03-Terraform-Fundamental-Blocks",
+    "\\03-Terraform-Fundamental-Blocks\\03-01-Terraform-Block",
+    "\\03-Terraform-Fundamental-Blocks\\03-03-Multiple-Provider-Configurations",
+    "\\03-Terraform-Fundamental-Blocks\\03-03-Multiple-Provider-Configurations\\terraform-manifests",
+    "\\08-Terraform-Workspaces"
+  ],
+  "PreviewInSolutionExplorer": false
+}
